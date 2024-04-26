@@ -6,5 +6,3 @@ SOURCES += downloadfile.cpp \
            main.cpp \
            mainwindow.cpp \
            wgetproses.cpp
-           
-SOURCES += main.cpp
